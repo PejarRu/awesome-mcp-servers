@@ -1,1 +1,1 @@
-$(cat /tmp/readme_punkpeye.md)
+FILE_CONTENT_PLACEHOLDER
